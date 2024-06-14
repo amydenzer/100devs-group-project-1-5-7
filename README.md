@@ -23,7 +23,7 @@ The user also has the option to manually enter a fourth exercise of their choosi
 
 ---
 
-> Link to project: https://crossflex.herokuapp.com
+> Link to project: https://www.crossflexwod.com
 
 ---
 
